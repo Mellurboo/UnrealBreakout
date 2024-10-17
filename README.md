@@ -1,7 +1,18 @@
-# Unreal Breakout (School Project)
-This was a project we worked on for school, It's for our Technical Practice course
-A lot of the UI code that runs every frame shouldn't. It was sort of very rushed but it does the job and I would do it differently next time
+# Unreal Breakout Project (UE5.4.4)
 
-If you have any questions go ahead and contact me by making a ticket or email me at Myles@chumsmp.xyz
+![the project in unreal engine](https://raw.githubusercontent.com/Mellurboo/UnrealBreakout/refs/heads/main/github/Hero.png)
 
-Unreal Engine 5.4.4
+My own unreal engine breakout clone for school. It was a good project and has probably the most unoptimised UI code. wonderful, Maybe I'll come back and fix it for fun but as of right now I have some big ahh project to do and I don't have time.
+
+Either way feel free to open the project, go ahead and learn from it.
+
+
+
+`UNREAL ENGINE: 5.4.4`
+`17/10/2024`
+
+
+## Authors
+
+- [@Myles Wilson](https://www.github.com/Mellurboo)
+
